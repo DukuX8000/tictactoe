@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/ADMIN/Downloads/c-caro-chess-master",
-      "program": "c:/Users/ADMIN/Downloads/c-caro-chess-master/build/Debug/outDebug",
+      "cwd": "c:/Users/ADMIN/Documents/2023.1/TH_LTM/tic tac toe project",
+      "program": "c:/Users/ADMIN/Documents/2023.1/TH_LTM/tic tac toe project/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

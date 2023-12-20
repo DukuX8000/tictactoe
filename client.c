@@ -214,6 +214,9 @@ void showRank(int sockfd, char name[])
   recv(sockfd, rank, sizeof(rank), 0);
   rankNav();
   printf("%s", rank);
+  printf("+-----------------------------------------------------------+\n");
+  printf("An nut bat ki de quay lai!\n");
+  printf("+-----------------------------------------------------------+\n");
   getchar();
 }
 
